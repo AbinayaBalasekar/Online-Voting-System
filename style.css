@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+textarea {
+    min-height: 80px;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+h2 {
+    font-weight: bold;
+}
